@@ -1,0 +1,41 @@
+Company,Model,Year,Mileage(mi),Dealer Name,Rating,Review Count,Color,MPG,Fuel Type,Transmission,Price
+Mercedes-Benz,LT,2020,32.108,NexGen Motors,2.8,16.0, Summit White ,14–21,Gasoline ,6-Speed Automatic,45.0
+Mercedes-Benz, Sport,2019,14.943,,,, White ,22–28,Gasoline Fuel ,6-Speed A/T,42.0
+Mercedes-Benz,LT,2020,53.749,Velocity Auto Sales,3.9,179.0, Onyx Black ,14–21,Gasoline ,6-Speed Automatic,52.995
+Mercedes-Benz,mited,2010,180.0,,,, White ,19–27,Gasoline Fuel ,A/T,13.95
+Mercedes-Benz,,2018,31.2,,,, Gray ,21–29,Gasoline Fuel ,8-Speed A/T,47.499
+Mercedes-Benz,Base,2016,61.95,CarMax King of Prussia - Now offering Curbside Pickup,5.0,3.0, Majestic White ,19–26,Gasoline ,Automatic CVT,29.998
+Mercedes-Benz,ette Base,2002,38.568,Knighton's Auto Services,4.8,3.0, White ,–,Gasoline ,4-Speed Automatic,23.995
+Mercedes-Benz,X-L,2020,26.025,CarMax Savannah - Now offering Curbside Pickup,1.8,3.0, Gray ,30–38,Gasoline ,Automatic CVT,31.998
+Mercedes-Benz,SXT,2016,134.734,AutoNation USA Houston,3.9,120.0, Billet Clearcoat ,19–31,Gasoline ,8-Speed Automatic,16.493
+Mercedes-Benz,COBOOST-BACKUP CAMERA-BLUETOOTH-REMOTE KEYLESS EN,2017,68.985,Sterling McCall Chevrolet,4.2,806.0, Lightning Blue Metallic ,21–30,Gasoline ,6-Speed Automatic,23.4
+Mercedes-Benz,Standard Range,2019,16.14,,,, Gray ,0–0,Electric Fuel System ,A/T,71.2
+Mercedes-Benz, 2.5i Premium,2019,12.377,Cherry Hill Chrysler Dodge Jeep RAM Kia Mitsubishi,4.1,2.388, Abyss Blue Pearl ,25–32,Gasoline ,Automatic CVT,27.995
+Mercedes-Benz,rrera GTS,2018,19.008,Porsche Plano,4.8,1.134, Lava Orange ,18–26,Gasoline ,7-Speed Automatic with Auto-Shift,129.995
+Mercedes-Benz,nium,2019,28.88,,,, White ,22–29,Gasoline Fuel ,A/T,24.5
+Mercedes-Benz,ter Banks,2021,10.7,,,, White ,18–18,Gasoline Fuel ,10-Speed A/T,63.0
+Mercedes-Benz,.0t LUXE,2018,41.449,EchoPark Automotive Louisville Delivery Center,,0.0, Liquid Platinum ,19–27,Gasoline ,7-Speed Automatic,29.789
+Mercedes-Benz,LT,2020,69.909,Velocity Auto Sales,3.9,179.0, Summit White ,14–21,Gasoline ,6-Speed Automatic,48.995
+Mercedes-Benz,us Base,2020,5.047,DCH Montclair Acura,4.9,2.441, Rosso Mars Metallic ,12–17,Gasoline ,8-Speed Automatic,285.848
+Mercedes-Benz,serve II,2019,25.118,EchoPark Automotive Baton Rouge Delivery Center,,0.0, Magnetic Gray Metallic ,20–31,Gasoline ,6-Speed Automatic,32.989
+Mercedes-Benz,Base,2013,139.845,Auto Barn NC,3.7,3.0, NOT SPECIFIED ,43–40,Hybrid ,Automatic CVT,12.999
+Mercedes-Benz,GLB 250 Base 4MATIC,2022,3.324,Mercedes-Benz of Chantilly,4.6,899.0, Metallic ,23–31,Gasoline ,8-Speed Automatic with Auto-Shift,45.0
+Mercedes-Benz,C-Class C 300,2019,20.392,Fletcher Jones Motorcars,4.8,5.257, Emerald Green Metallic ,23–34,Gasoline ,9-Speed Automatic,35.894
+Mercedes-Benz,GLE 350 Base 4MATIC,2020,28.213,Mercedes-Benz of Calabasas,4.6,900.0, Gray ,19–26,Gasoline ,9-Speed Automatic,54.999
+Mercedes-Benz,AMG GLE 43 4MATIC Coupe,2019,24.179,Mercedes-Benz of South Orlando,4.7,1.233, Black ,17–22,Gasoline ,9-Speed Automatic,73.677
+Mercedes-Benz,AMG GLE 53 Base,2021,19.459,Mercedes-Benz of Nanuet,4.9,242.0, Lunar Blue Metallic ,18–23,Gasoline ,9-Speed Automatic,98.089
+Mercedes-Benz,GLS 450 Base 4MATIC,2019,27.117,Mercedes Benz of Hoffman Estates,4.7,1.107, Black ,16–22,Gasoline ,9-Speed Automatic,60.999
+Mercedes-Benz,AMG GLE 43 4MATIC Coupe,2019,36.05,Mercedes-Benz of Stevens Creek,4.7,1.632, designo Diamond White Metallic ,17–22,Gasoline ,9-Speed Automatic,65.992
+Mercedes-Benz,C-Class C 300,2021,16.997,Mercedes-Benz Of Tampa,4.7,3.483, – ,23–35,Gasoline ,9-Speed Automatic,41.995
+Mercedes-Benz,AMG GLE 43 4MATIC Coupe,2019,35.573,RBM of Atlanta,4.9,1.013, Black ,17–22,Gasoline ,9-Speed Automatic,72.876
+Mercedes-Benz,GLB 250 Base 4MATIC,2022,2.405,Mercedes-Benz of Chantilly,4.6,899.0, Polar White ,23–31,Gasoline ,8-Speed Automatic with Auto-Shift,44.0
+Mercedes-Benz,AMG GLE 53 Base,2021,24.792,Mercedes-Benz of Edison,4.9,2.982, Selenite Gray ,18–22,Gasoline ,9-Speed Automatic,94.399
+Mercedes-Benz,GLS 450 Base 4MATIC,2020,17.496,Mercedes-Benz of Pleasanton,2.5,55.0, designo Diamond White Metallic ,19–23,Gasoline ,9-Speed Automatic,79.472
+Mercedes-Benz,GLC 300 Base,2019,42.145,House of Imports,4.7,1.245, Black ,22–27,Gasoline ,9-Speed Automatic,34.99
+Mercedes-Benz,GLC 300 4MATIC,2019,38.23,Mercedes-Benz of Westwood,4.5,426.0, Polar White ,22–27,Gasoline ,9-Speed Automatic,38.467
+Mercedes-Benz,GLC 300 Base 4MATIC,2020,12.128,Mercedes-Benz of Springfield,4.9,93.0, Obsidian Black ,21–28,Gasoline ,9-Speed Automatic,46.991
+Mercedes-Benz,GLA 250 Base,2020,30.048,Mercedes-Benz of Miami,4.6,1.021, Midnight Black ,24–34,Gasoline ,7-Speed Automatic with Auto-Shift,33.995
+Mercedes-Benz,GLE 350 Base,2018,17.355,Mercedes-Benz of South Orlando,4.7,1.233, Lunar ,18–23,Gasoline ,7-Speed Automatic,53.277
+Mercedes-Benz,C-Class C 300 4MATIC,2019,31.11,Mercedes-Benz of Bellevue,4.5,724.0, Black ,22–33,Gasoline ,9-Speed Automatic,36.997
+Mercedes-Benz,AMG GLE 43 4MATIC Coupe,2019,34.096,Mercedes-Benz of Silver Spring,4.8,1.636, Selenite Gray Metallic ,17–22,Gasoline ,9-Speed Automatic,69.9
+Mercedes-Benz,AMG GLE 43 4MATIC Coupe,2019,32.01,Mercedes-Benz of Silver Spring,4.8,1.636, Polar White ,17–22,Gasoline ,9-Speed Automatic,70.9
